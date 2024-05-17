@@ -1,4 +1,4 @@
-namespace Intrepion.TicTacToe.UnitTests;
+﻿namespace Intrepion.TicTacToe.UnitTests;
 
 public class Tests
 {
