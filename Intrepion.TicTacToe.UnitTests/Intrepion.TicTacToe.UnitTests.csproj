@@ -21,4 +21,8 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Intrepion.TicTacToe.ClassLibrary\Intrepion.TicTacToe.ClassLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
